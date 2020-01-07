@@ -1,5 +1,5 @@
 ---
-name: foo
+id: foo
 ---
 
 this is the entry page
